@@ -1,0 +1,17 @@
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\bin\Debug\net8.0-windows\fluffy(windows).exe
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\bin\Debug\net8.0-windows\fluffy(windows).deps.json
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\bin\Debug\net8.0-windows\fluffy(windows).runtimeconfig.json
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\bin\Debug\net8.0-windows\fluffy(windows).dll
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\bin\Debug\net8.0-windows\fluffy(windows).pdb
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\fluffy_windows_.Form1.resources
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\fluffy(windows).csproj.GenerateResource.cache
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\fluffy(windows).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\fluffy(windows).AssemblyInfoInputs.cache
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\fluffy(windows).AssemblyInfo.cs
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\fluffy(windows).csproj.CoreCompileInputs.cache
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\fluffy(windows).dll
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\refint\fluffy(windows).dll
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\fluffy(windows).pdb
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\fluffy(windows).genruntimeconfig.cache
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\ref\fluffy(windows).dll
+C:\Users\gnarpy\Desktop\c# assigments\fluffy(windows)\obj\Debug\net8.0-windows\fluffy_windows_.Properties.Resources.resources
