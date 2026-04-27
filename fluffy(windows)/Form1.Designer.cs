@@ -62,8 +62,11 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             MinimizeBox = false;
             Name = "Form1";
+            ShowInTaskbar = false;
+            SizeGripStyle = SizeGripStyle.Hide;
             StartPosition = FormStartPosition.CenterScreen;
             Text = "fluffy....";
+            TopMost = true;
             TransparencyKey = Color.White;
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
